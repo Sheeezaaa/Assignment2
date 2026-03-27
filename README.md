@@ -30,7 +30,14 @@
       <a href="./script.js">Open</a>
     </td>
   </tr>
-</table>  
+</table> 
+
+<!-- LIVE DEMO BUTTON -->
+<div style="margin: 20px 0;">
+  <a href="https://your-live-demo-link.com" target="_blank" 
+     style="text-decoration:none; background-color:#4CAF50; color:white; padding:10px 20px; border-radius:5px; font-family:Arial, sans-serif; font-weight:bold;">
+    🚀 Live Demo
+  </a>
 
 
 
