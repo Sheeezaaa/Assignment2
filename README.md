@@ -1,15 +1,12 @@
+
+| # | File Name   | Action |
 <br>
-#| File Name| Action
+| 1 | index.html | [Open](./index.html) |
 </br>
 <br>
-1| index.html| "Open" (./index.html)
+| 2 | style.css  | [Open](./style.css) |
 </br>
 <br>
-2| style.css| "Open" (./style.css)
+| 3 | script.js  | [Open](./script.js) |
 </br>
-<br>
-3| script.js| "Open" (./script.js)
-</br>
-<br>
-4| README.md| "Open" (./README.md)
-</br>
+
