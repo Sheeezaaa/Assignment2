@@ -1,9 +1,15 @@
-# Assignment2
-📂 Assignment Files
 <br>
-#| Task| Action
+#| File Name| Action
 </br>
-1| HTML File| "Open" (./index.html)
-2| CSS File| "Open" (./style.css)
-3| JS File| "Open" (./script.js)
-
+<br>
+1| index.html| "Open" (./index.html)
+</br>
+<br>
+2| style.css| "Open" (./style.css)
+</br>
+<br>
+3| script.js| "Open" (./script.js)
+</br>
+<br>
+4| README.md| "Open" (./README.md)
+</br>
