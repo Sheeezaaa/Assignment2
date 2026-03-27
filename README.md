@@ -57,6 +57,8 @@
   <br>
   <div><img src="https://github.com/user-attachments/assets/74de080a-67d8-482c-8f68-bae3d7218032" width="300" style="border:1px solid #ddd; border-radius:5px;" />
 </div></br>
+<br> <h2 style="color:#4CAF50;">✨ Questions are randomized on every restart</h2>
+</br>
 <br>
 <div style="display:flex; gap:10px; flex-wrap: wrap; margin-bottom:10px;">
   <img src="https://github.com/user-attachments/assets/720b4710-d47a-430e-b56d-42a635639598" width="300" style="border:1px solid #ddd; border-radius:5px;" />
