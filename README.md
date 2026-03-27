@@ -32,15 +32,6 @@
   </tr>
 </table> 
 
-<!-- LIVE DEMO BUTTON -->
-<div style="margin: 20px 0;">
-  <a href="https://your-live-demo-link.com" target="_blank" 
-     style="text-decoration:none; background-color:#4CAF50; color:white; padding:10px 20px; border-radius:5px; font-family:Arial, sans-serif; font-weight:bold;">
-    🚀 Live Demo
-  </a>
-
-
-
 <!-- Screenshots -->
 
 <h2 style="font-family: Arial, sans-serif; color: #333; margin-top:30px;">📸 Screenshots</h2>
@@ -57,8 +48,7 @@
   <br>
   <div><img src="https://github.com/user-attachments/assets/74de080a-67d8-482c-8f68-bae3d7218032" width="300" style="border:1px solid #ddd; border-radius:5px;" />
 </div></br>
-<br> <h2 style="color:#4CAF50;">✨ Questions are randomized on every restart</h2>
-</br>
+
 <br>
 <div style="display:flex; gap:10px; flex-wrap: wrap; margin-bottom:10px;">
   <img src="https://github.com/user-attachments/assets/720b4710-d47a-430e-b56d-42a635639598" width="300" style="border:1px solid #ddd; border-radius:5px;" />
@@ -66,6 +56,8 @@
 <br>
 <div style="display:flex; gap:10px; flex-wrap: wrap; margin-bottom:10px;">
   <img src="https://github.com/user-attachments/assets/2d992a0b-1f25-434b-9731-e73f641c5123" width="300" style="border:1px solid #ddd; border-radius:5px;" /></div></br>
+  <br> <h2 style="color:#4CAF50;">✨ Questions are randomized on every restart</h2>
+</br>
   <br>
   <div><img src="https://github.com/user-attachments/assets/b16b171e-bf0f-4413-8149-d694da07b644" width="300" style="border:1px solid #ddd; border-radius:5px;" />
 </div></br>
