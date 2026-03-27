@@ -34,12 +34,9 @@
 
 
 <h2>📸 Screenshots</h2>
-<img width="538" height="319" alt="image" src="https://github.com/user-attachments/assets/1401e85f-655f-473f-a0d4-bb6a9bb0fb0a" />
-<img width="604" height="360" src="https://github.com/user-attachments/assets/abf56068-ce39-4c27-9013-8fd2169cefcf" />
-<img width="641" height="403" alt="image" src="https://github.com/user-attachments/assets/7abe19bf-dbf8-454c-9c7c-0274ea7518cf" />
-<img width="593" height="432" alt="image" src="https://github.com/user-attachments/assets/c7e1983c-e4c8-401b-9816-0e36911c0ca0" />
-<img width="638" height="380" alt="image" src="https://github.com/user-attachments/assets/9d95921b-81c2-4807-9021-7c6eeb514a8f" />
-<img width="597" height="400" alt="image" src="https://github.com/user-attachments/assets/69223c64-81b5-4edd-8f8a-4d9464640c2e" />
+<img width="808" height="542" alt="image" src="https://github.com/user-attachments/assets/96708bb3-1732-4ead-b7ec-e33c06cad792" />
+<img width="867" height="647" alt="image" src="https://github.com/user-attachments/assets/92541a7d-622d-42e1-a0d7-41ecc65f2b19" />
+
 
 
 
