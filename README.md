@@ -31,6 +31,13 @@
     </td>
   </tr>
 </table> 
+<div style="margin: 20px 0;">
+  <a href="https://sheeezaaa.github.io/Assignment2/" target="_blank" 
+     style="text-decoration:none; background-color:#4CAF50; color:white; padding:10px 20px; border-radius:5px; font-family:Arial; font-weight:bold;">
+    🚀 Live Demo
+  </a>
+</div>
+
 
 <!-- Screenshots -->
 
