@@ -1,0 +1,122 @@
+body { 
+    font-family: Arial, sans-serif;
+    background: pink;
+    display: flex;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    padding: 70px;
+}
+
+.app, #result-box { 
+    max-width: 700px; 
+    margin: 0 auto; 
+    padding: 20px;
+    background: skyblue;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+    text-align: center;       
+    border-bottom: 5px solid black; 
+    padding-bottom: 10px;   
+}
+
+#question { 
+    font-size: 20px;
+    margin-bottom: 15px; 
+}
+
+.btn { 
+    display: block;
+    width: 100%; 
+    margin: 5px 0; 
+    padding: 10px; 
+    font-size: 16px;
+    cursor: pointer;
+    border: none; 
+    border-radius: 5px; 
+    background: whitesmoke; 
+}
+
+.btn.correct { 
+    background: #4CAF50;
+    color: #fff;
+}
+
+.btn.wrong {
+    background: purple;
+    color: #fff;
+}
+
+#next-btn {
+    margin-top: 10px;
+    padding: 10px 20px;
+    display: none; 
+    cursor: pointer; 
+    border: none; 
+    border-radius: 5px;
+    background: darkred;
+    color: #fff;
+}
+
+#timer {
+    font-weight: bold;
+    font-size: 20px; 
+    color: black; 
+    margin-bottom: 10px;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    table-layout: fixed;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+    width: 33%;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    word-wrap: break-word;
+}
+
+th {
+    background: #eee;
+}
+
+.correct-text {
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+.wrong-text { 
+    color: blue; 
+    font-weight: bold;
+}
+
+#restart-btn { 
+    margin-top: 10px;
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px;
+    cursor: pointer;
+    background: #009688;
+    color: #fff;
+}
+#download-btn {
+  width: 200px;
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background: linear-gradient(45deg, #00c853, #64dd17);
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+}
