@@ -30,15 +30,12 @@
       <a href="./script.js">Open</a>
     </td>
   </tr>
+</table>  
 
+<h2>📸 Screenshots</h2>
 
+<img width="780" height="350" src="https://github.com/user-attachments/assets/2f4debd2-f450-47df-8e94-5d6f0f6416f7" />
 
+<img width="604" height="360" src="https://github.com/user-attachments/assets/abf56068-ce39-4c27-9013-8fd2169cefcf" />
 
-  #SCREENSHOT
-
-
-  <img width="780" height="350" alt="image" src="https://github.com/user-attachments/assets/2f4debd2-f450-47df-8e94-5d6f0f6416f7" />
-
-  
-</table>
 
