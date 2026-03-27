@@ -33,12 +33,13 @@
 </table>  
 
 
-<h2>📸 Screenshots</h2>
-<img width="808" height="542" alt="image" src="https://github.com/user-attachments/assets/96708bb3-1732-4ead-b7ec-e33c06cad792" />
-<img width="867" height="647" alt="image" src="https://github.com/user-attachments/assets/92541a7d-622d-42e1-a0d7-41ecc65f2b19" />
 
+<h2 style="font-family: Arial, sans-serif; color: #333; margin-top:30px;">📸 Screenshots</h2>
 
-
+<div style="display:flex; gap:10px; flex-wrap: wrap;">
+  <img src="https://github.com/user-attachments/assets/96708bb3-1732-4ead-b7ec-e33c06cad792" width="400" style="border:1px solid #ddd; border-radius:5px;" />
+  <img src="https://github.com/user-attachments/assets/92541a7d-622d-42e1-a0d7-41ecc65f2b19" width="400" style="border:1px solid #ddd; border-radius:5px;" />
+</div>
 
 
 
